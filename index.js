@@ -9,27 +9,27 @@ const questions = [
 	{
 		type: 'input',
 		name: 'title',
-		message: 'What is the title of your project?\n- Something thoughtful that really captures the idea of your project.\n',
+		message: 'What is the title of your project?\n',
 	},
 	{
 		type: 'input',
 		name: 'description',
-		message: 'Provide a short description of the project, use the following as guides:\n- What is your motivation?\n- Why was this project built?\n- What problem does it solve?\n- What did you learn?\n',
+		message: 'Provide a short description of the project, use the following as guides:\n- What does it do?\n- Why was it built?\n- What problem does it solve?\n',
 	},
 	{
 		type: 'input',
 		name: 'installation',
-		message: 'What are the required steps to install the project?\n',
+		message: 'What steps are needed to install and run this?\n',
 	},
 	{
 		type: 'input',
 		name: 'usage',
-		message: 'How do you use this project?\n- Provide instructions and examples.\n',
+		message: 'How do you use this project?\n- Provide simple instructions for the user to simply follow along and use.\n',
 	},
 	{
 		type: 'list',
 		name: 'license',
-		message: 'Which license do you want to use from the following:\n',
+		message: 'Which license do you want to use from the following list (arrow keys can be used to navigate):\n',
 		choices: ['Apache 2.0', 'BSD 2-Clause', 'BSD 3-Clause', 'LGPL-3.0', 'MIT', 'Mozilla Public 2.0', 'CDDL-1.0', 'EPL-2.0'],
 	},
 	{
@@ -45,7 +45,7 @@ const questions = [
 	{
 		type: 'input',
 		name: 'questions',
-		message: 'What questions do you want answered about the project?\nThink of this as being open-ended allowing users to help you out in the future.\n',
+		message: 'What questions do you want answered about the project?\n',
 	},
 	{
 		type: 'input',
