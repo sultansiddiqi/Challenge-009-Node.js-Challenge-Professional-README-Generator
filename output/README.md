@@ -44,7 +44,7 @@ is there a way this can be done through a weblink and browser embedded with node
 
 ## Contact
 
-[GitHub Profile](https://github.com/https://github.com/sultansiddiqi)
+[GitHub Profile](https://github.com/sultansiddiqi)
 
 [Email Me](sultan.siddiqi@gmail.com)
 
