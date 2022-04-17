@@ -1,9 +1,9 @@
 
-# README Generator
+# README Generator Pro
 
 ## Description
 
-This project was designed to help a user create a readme with a template. It was built to make the work easier. It solves tedious work of putting together a readme.
+This project is designed to help a user create an EASY README with some relevant information
 
 ## Table of Contents
 - [Description](#description)
@@ -17,11 +17,11 @@ This project was designed to help a user create a readme with a template. It was
 
 ## Installation
 
-Make sure inquirer is installed. After, simply run node index.js
+Install inquirer, and then run node index.hs
 
 ## Usage
 
-Install inquirer, run the file via node
+Install inquirer, run node index.js
 
 ## License
 
@@ -36,11 +36,11 @@ Sultan Siddiqi
 
 ## Tests
 
-No test required. Run the program and check your resutls
+install inquirer, run node index.js
 
 ## Questions
 
-Can we make it possible to run this without making sure the user needs inquirer installed?
+is there a way this can be done through a weblink and browser embedded with node js
 
 ## Contact
 
