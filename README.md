@@ -27,7 +27,7 @@ Then open the terminal from the root of the files and type in "node index.js", t
 
 After all the questions have been answered the README will be generated to the output folder where it can be edited further. 
 
-![The inquirer in action](assets/readme_gif.gif)
+![The inquirer in action](assets/demo.gif)
 
 ## License
 
@@ -44,7 +44,7 @@ Sultan Siddiqi
 
 There are no tests at this time.
 
-For a full video demonstrations [click here](...).
+For a full video demonstrations [click here](https://youtu.be/-eZgUK9PaCs).
 
 ## Questions
 

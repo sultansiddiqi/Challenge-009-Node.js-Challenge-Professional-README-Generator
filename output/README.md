@@ -1,9 +1,9 @@
 
-# Custom README Generator Template
+# README Generator
 
 ## Description
 
-This project will help a user simply put together a README with the most relevant information about their project
+This project was designed to help a user create a readme with a template. It was built to make the work easier. It solves tedious work of putting together a readme.
 
 ## Table of Contents
 - [Description](#description)
@@ -17,11 +17,11 @@ This project will help a user simply put together a README with the most relevan
 
 ## Installation
 
-For MAC (Because I have a mac) Open terminal to the root directory of this project. Make sure you have inquirer installed by using the command "npm i inquirer". THen type "node index.js".
+Make sure inquirer is installed. After, simply run node index.js
 
 ## Usage
 
-Install inquirer, run the program with node
+Install inquirer, run the file via node
 
 ## License
 
@@ -36,11 +36,11 @@ Sultan Siddiqi
 
 ## Tests
 
-download, and run (make sure inquirer is installed) Then node index.js
+No test required. Run the program and check your resutls
 
 ## Questions
 
-Perhaps make it easier that users wont have to make sure they have inquirer installed. Can just out of box operate.
+Can we make it possible to run this without making sure the user needs inquirer installed?
 
 ## Contact
 
