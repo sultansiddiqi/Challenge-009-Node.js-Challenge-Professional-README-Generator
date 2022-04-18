@@ -53,6 +53,7 @@ I would like to know how to integrate this into a browser modal for users who ar
 ## Contact
 
 [GitHub Profile](https://github.com/sultansiddiqi)
+[Challenge Repository Link](https://github.com/sultansiddiqi/Challenge-009-Node.js-Challenge-Professional-README-Generator)
 
-[Email Me](sultan.siddiqi@gmail.com)
+Email: sultan.siddiqi@gmail.com
 
